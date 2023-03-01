@@ -1,3 +1,7 @@
+https://stackoverflow.com/questions/40528053/npm-install-and-build-of-forked-github-repo
+
+forking an npm package
+
 # 🦜️🔗 LangChain.js
 
 ⚡ Building applications with LLMs through composability ⚡
